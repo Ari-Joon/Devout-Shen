@@ -22,7 +22,7 @@ A deep purple hood and mask with only his glowing golden eyes showing, framed by
 
 ![Devout Shen](media/images/01-devout-shen.jpg)
 
-On his back, a free-flowing purple cape with a quiet fleur-de-lis damask and a silver cross, under a gold crucifix-hilted sabre in a purple scabbard inscribed DEUS VULT. A rosary hangs at his chest, simulated as he moves.
+On his back, a free-flowing purple cape that hangs from under his pauldrons, shoulder to shoulder, with a quiet fleur-de-lis damask and a silver cross, under a gold crucifix-hilted sabre in a purple scabbard inscribed DEUS VULT. A rosary hangs at his chest, simulated as he moves.
 
 ![Cape, scabbard and rosary](media/images/02-back.jpg)
 
@@ -78,13 +78,21 @@ He goes down on one knee and bows his head, his fist on his heart, under softly 
 
 ## Recall
 
-He turns to you and raises the radiant Holy Cross greatsword to the sky as holy light comes down on it, to a Gregorian prayer.
+He turns to you and makes the sign of the cross, his hand leaving a cross of light on his chest as a ring of light runs out from his feet. Then he raises the radiant Holy Cross greatsword to the sky and a shaft of holy light comes down on its point, growing brighter until he is gone, to a Gregorian prayer.
 
 ![The recall](media/gifs/recall.gif)
 
 [Watch the recall (with sound)](media/videos/recall.mp4?raw=true)
 
+![The sign of the cross, drawn in light](media/images/11-recall-sign-of-the-cross.jpg)
+
 ![The radiant greatsword raised to the sky](media/images/08-recall-greatsword-raised.jpg)
+
+## What's new in 1.1.0
+
+- **The cape** now hangs from under his pauldrons, as wide as his shoulders, and its silver cross stays one clean cross as the cloth folds.
+- **The recall** opens with the sign of the cross drawn in light, and its light now sits exactly on the raised blade.
+- **The ult:** the face of Christ stays fixed over him wherever he stands on screen.
 
 ## How to use
 
